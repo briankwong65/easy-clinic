@@ -23,7 +23,7 @@ npm install -g expo-cli
 expo start
 a
 ```
-2. Open another terminal and cd to the project directory and switch on the backend (node.js) :
+2. Open another terminal and cd to the backend directory and switch on the backend (node.js) :
 
 ```bash
 cd backend
