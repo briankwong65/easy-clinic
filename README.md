@@ -4,8 +4,8 @@ My Clinic is a hybrid app written in React Native for dealing with simple clinic
 
 ## Pre-requisites
 
-- Installed [node.js](https://nodejs.org/en/)
-- Installed an Android emulator (can be installed from [Android Studio](https://developer.android.com/studio))
+- Installed [node.js](https://nodejs.org/en/).
+- Installed an Android emulator (can be installed from [Android Studio](https://developer.android.com/studio)) / Prepared an Android device.
 
 ## Installation
 
@@ -17,7 +17,8 @@ npm install -g expo-cli
 - Install [XAMPP](https://www.apachefriends.org/index.html) to set up the local SQL database.
 
 ## Usage
-1. Switch on the front-end (expo cli) and run on an Android emulator :
+- If you are using your an Android device, change the IP Address to your computer's IP Address in **axios.post()** in [../screens/login.js](https://github.com/briankwong65/myClinic/blob/master/screens/login.js), [../screens/registration.js](https://github.com/briankwong65/myClinic/blob/master/screens/registration.js), [../screens/clinic.js](https://github.com/briankwong65/myClinic/blob/master/screens/clinic.js), and [../screens/createRecord.js](https://github.com/briankwong65/myClinic/blob/master/screens/createRecord.js) 
+1. Switch on the front-end (expo cli) and run on an Android emulator / Android device :
 
 ```bash
 expo start
