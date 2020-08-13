@@ -25,14 +25,14 @@ npm install -g expo-cli
 ## Usage
 - If you are using your an **Android device** / **IOS simulator**:
  change the **IP Address to your computer's IP Address** in **axios.post()** in **[../screens/login.js](https://github.com/briankwong65/myClinic/blob/master/screens/login.js)**, **[../screens/registration.js](https://github.com/briankwong65/myClinic/blob/master/screens/registration.js)**, **[../screens/clinic.js](https://github.com/briankwong65/myClinic/blob/master/screens/clinic.js)**, and **[../screens/createRecord.js](https://github.com/briankwong65/myClinic/blob/master/screens/createRecord.js)** .
-
-1. Start the **EXPO CLI** and run on an **Android device**/**emulator** :
+1. Turn on **XAMPP** and start **MySQL**
+2. Start the **EXPO CLI** and run on an **Android device**/**emulator** :
 
 ```bash
 expo start
 a
 ```
-2. Open **another terminal** and **cd** to the **backend** directory and start the **back-end server(node.js)** :
+3. Open **another terminal** and **cd** to the **backend** directory and start the **back-end server(node.js)** :
 
 ```bash
 cd backend
