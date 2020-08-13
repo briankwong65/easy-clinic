@@ -33,7 +33,7 @@ npm install -g expo-cli
 expo start
 a
 ```
-3. Open **another terminal** and **cd** to the **backend** directory and start the **back-end server(ode.js)** :
+3. Open **another terminal** and **cd** to the **backend** directory and start the **back-end server(Node.js)** :
 
 ```bash
 cd backend
