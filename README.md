@@ -1,6 +1,7 @@
 # My Clinic
 
 **My Clinic** is a **hybrid app** written in **React Native** and **node.js** for dealing with simple clinic records.
+Please refer to **[../screenshots](https://github.com/briankwong65/myClinic/tree/master/screenshots)** for screenshots of the app.
 
 ## Pre-requisites
 
