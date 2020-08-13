@@ -1,6 +1,6 @@
 # My Clinic
 
-**My Clini**c is a **hybrid app** written in **React Native** and **node.js** for dealing with simple clinic records.
+**My Clinic** is a **hybrid app** written in **React Native** and **node.js** for dealing with simple clinic records.
 
 ## Pre-requisites
 
@@ -24,7 +24,7 @@ npm install -g expo-cli
 
 ## Usage
 - If you are using your an **Android device** / **IOS simulator**:
- change the IP Address to your computer's IP Address in **axios.post()** in **[../screens/login.js](https://github.com/briankwong65/myClinic/blob/master/screens/login.js)**, **[../screens/registration.js](https://github.com/briankwong65/myClinic/blob/master/screens/registration.js)**, **[../screens/clinic.js](https://github.com/briankwong65/myClinic/blob/master/screens/clinic.js)**, and **[../screens/createRecord.js](https://github.com/briankwong65/myClinic/blob/master/screens/createRecord.js)** .
+ change the **IP Address to your computer's IP Address** in **axios.post()** in **[../screens/login.js](https://github.com/briankwong65/myClinic/blob/master/screens/login.js)**, **[../screens/registration.js](https://github.com/briankwong65/myClinic/blob/master/screens/registration.js)**, **[../screens/clinic.js](https://github.com/briankwong65/myClinic/blob/master/screens/clinic.js)**, and **[../screens/createRecord.js](https://github.com/briankwong65/myClinic/blob/master/screens/createRecord.js)** .
 
 1. Start the **EXPO CLI** and run on an **Android device**/**emulator** :
 
