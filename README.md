@@ -19,7 +19,7 @@ Please refer to **[../screenshots](https://github.com/briankwong65/myClinic/tree
 ```bash
 npm install -g expo-cli
 ```
-- Install **[XAMPP](https://www.apachefriends.org/index.html)** to set up the local SQL database.
+- Install **[XAMPP](https://www.apachefriends.org/index.html)** to set up the local **SQL database**.
 - If you are using an **Android Device**, please install the **[Expo](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=zh_HK)** app from **Google Play Store**.
 - If you are using an **IOS Device**, please install the **[Expo Client](https://apps.apple.com/us/app/expo-client/id982107779)** app from **App Store**.
 
