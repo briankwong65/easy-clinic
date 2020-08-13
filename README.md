@@ -1,6 +1,6 @@
 # My Clinic
 
-**My Clinic** is a **hybrid app** written in **React Native** and **node.js** for dealing with simple clinic records.<br />
+**My Clinic** is a **hybrid app** written in **React Native** and **Node.js** for dealing with simple clinic records.<br />
 Please refer to **[../screenshots](https://github.com/briankwong65/myClinic/tree/master/screenshots)** for screenshots of the app.
 
 ## Pre-requisites
@@ -33,7 +33,7 @@ npm install -g expo-cli
 expo start
 a
 ```
-3. Open **another terminal** and **cd** to the **backend** directory and start the **back-end server(node.js)** :
+3. Open **another terminal** and **cd** to the **backend** directory and start the **back-end server(ode.js)** :
 
 ```bash
 cd backend
