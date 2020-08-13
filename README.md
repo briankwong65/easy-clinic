@@ -2,8 +2,6 @@
 
 **My Clinic** is a **hybrid app** written in **React Native** and **node.js** for dealing with simple clinic records.
 
-![Image of Yaktocat](https://github.com/briankwong65/myClinic/blob/master/screenshots/Login.jpg)
-
 ## Pre-requisites
 
 - Installed **[node.js](https://nodejs.org/en/)** .
