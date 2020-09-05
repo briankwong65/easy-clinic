@@ -6,10 +6,7 @@ Please refer to **[../screenshots](https://github.com/briankwong65/myClinic/tree
 ## Pre-requisites
 
 - Installed **[Node.js](https://nodejs.org/en/)** .
-- Installed an **Android emulator** (can be installed from **[Android Studio](https://developer.android.com/studio)**) / 
-- Installed an **IOS simulator** (can be installed from **[Xcode](https://apps.apple.com/hk/app/xcode/id497799835?mt=12)**) /
-- Prepared an **Android device** /
-- Prepared an **IOS device**
+- Prepared an **Android/IOS** **device** or **emulator**.
 
 
 ## Installation
